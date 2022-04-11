@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tamaratgz@gmail.com
+	name = Tamara Torrecillas
